@@ -1,3 +1,5 @@
-# First Chapter
+# 行銷簡介
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+什麼是行銷？
+
+Marketing is the process of planning and executing the conception, pricing, promotion and distribution of ideas, goods and services to create exchanges that satisfy individual and organizational objectives. (American Marketing Association)
